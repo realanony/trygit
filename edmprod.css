@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color:rgb(64, 5, 87);
+    font-family:sans-serif;
+    
+}
+h1{
+    background: #000000;
+color: rgb(64, 5, 87);
+font-family: lato;
+text-shadow: 1px 1px rgba(123, 25, 15, 0.5);
+}
+.img{
+    width:1;
+    height:1;
+}
